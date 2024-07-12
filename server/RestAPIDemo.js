@@ -1,4 +1,5 @@
 const express=require("express");
+require('dotenv').config();
 const mongoose=require("mongoose");
 const cors=require("cors");
 const Product = require("./model/Product");
@@ -6,7 +7,7 @@ const Admin = require("./model/Admin");
 const Entry=require('./model/Entry');
 const bodyparser=require("body-parser");
 
-mongoose.connect("mongodb+srv://Abhi:L0cVZJTLt68aNTkd@cluster0.pdyxgfc.mongodb.net/tiles?retryWrites=true&w=majority").then(
+mongoose.connect(process.env.MONGODB_CONNECTION_STRING, { useNewUrlParser: true, useUnifiedTopology: true }).then(
     ()=>{
     const app=express();
     app.use(express.json());
