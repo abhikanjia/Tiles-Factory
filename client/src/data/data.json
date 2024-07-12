@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "title": "Elevate Your Space with Timeless Elegance",
+    "paragraph": "Discover the Art of Home Transformation as Our Exquisite Tiles Blend Aesthetics and Functionality, Creating Spaces That Speak Volumes of Elegance and Style."
+  },
+  "HomeIntro":{
+    "title":"Transform Your Space with Our Tiles",
+    "paragraph":" we invite you to embark on a journey of transformation. Our premium tiles are crafted with precision and passion, promising to redefine the ambiance of your home. Each tile is more than a surface; it's a statement of style and sophistication. Explore our curated collections, where aesthetics meet durability, and design possibilities are limitless.Immerse yourself in the seamless blend of quality and innovation that distinguishes our tiles. From classic charm to contemporary allure, our diverse range caters to every taste and design preference. Whether you're envisioning a sleek modern kitchen, a luxurious bathroom retreat, or a welcoming living space, our tiles set the stage for your vision."
+  },
+  "About": {
+    "paragraph": "At Linum Ceramic, we are more than just a tiles manufacturer – we are creators of distinctive spaces and champions of innovation. Our journey began with a passion for transforming interiors, and today, we stand proud as a leading name in the tile industry.Founded in 2013, we embarked on a mission to redefine the possibilities of tile design. Our commitment to excellence, creativity, and sustainability has been the driving force behind our success.",
+    "Why": [
+      "Customization Expertise",
+      "Collaborations with Designers",
+      "In-House Design Team",
+      "Exclusive Collections"
+    ],
+    "Why2": [
+      "Quick Turnaround Time",
+      "Digital Visualization Tools",
+      "Responsive Customer Support",
+      "Industry Certifications"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-check-circle",
+      "name": "Quality Assurance",
+      "text": "We prioritize quality at every stage of production. Our quality assurance measures ensure that every tile leaving our factory meets the highest standards of durability and functionality."
+    },
+    {
+      "icon": "fa fa-clock-o",
+      "name": "Logistics and Timely Delivery",
+      "text": "Your satisfaction is our priority. Benefit from our efficient logistics and delivery services, ensuring that your orders reach you on time, every time."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "After-Sales Support",
+      "text": "Our commitment to your satisfaction extends beyond the sale. Count on our dedicated after-sales support team to address any queries or concerns you may have."
+    },
+    {
+      "icon": "fa fa-rocket",
+      "name": "Tile Manufacturing",
+      "text": "Immerse yourself in a world of possibilities with our state-of-the-art tile manufacturing process. From concept to creation, we bring your design ideas to life with precision and expertise."
+    },
+    {
+      "icon": "fa fa-anchor",
+      "name": "Innovative Design",
+      "text": "we redefine the essence of tile design, offering a distinctive range that seamlessly blends aesthetics with functionality. Our commitment to innovation is evident in every tile we produce."
+    },
+    {
+      "icon": "fa fa-sliders",
+      "name": "Various Product Range",
+      "text": "we have multiple different type of product range that help customer to choose from the different products and elevate their homes from different types of tiles."
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-cogs",
+      "title": "Advanced Technology",
+      "text": "Embrace cutting-edge technology to ensure the highest quality and precision in our products."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Global Reach",
+      "text": "With a global presence, we cater to clients worldwide, delivering excellence beyond borders."
+    },
+    {
+      "icon": "fa fa-leaf",
+      "title": "Eco-Friendly Practices",
+      "text": "Commitment to sustainability through eco-friendly materials and environmentally conscious processes."
+    },
+    {
+      "icon": "fa fa-user",
+      "title": "Customer-Centric",
+      "text": "Our customer-centric approach ensures satisfaction through responsive support and personalized solutions."
+    }
+  ]
+}
